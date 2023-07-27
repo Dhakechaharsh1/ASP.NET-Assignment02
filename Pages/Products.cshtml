@@ -1,0 +1,33 @@
+﻿@page
+@model FurnitureAssignment2.Pages.ProductsModel
+@{
+    // Set the title of the page to "Products"
+    ViewData["Title"] = "Products";
+}
+
+<!-- HTML content for the Razor Page -->
+<h1>Our Products</h1>
+
+<!-- Create a row for displaying product cards -->
+<div class="row">
+    <!-- Iterate through each product in the Model.Products collection -->
+    @foreach (var product in Model.Products)
+    {
+        <!-- For each product, create a column of width "col-md-4" to display the product card -->
+        <div class="col-md-4">
+            <!-- Create a card to display the product information -->
+            <div class="card">
+                <!-- Display the product image using the @product.ImageUrl property -->
+                <img src="@product.ImageUrl" class="card-img-top" alt="@product.Name">
+                <div class="card-body">
+                    <!-- Display the product name using the @product.Name property -->
+                    <h5 class="card-title">@product.Name</h5>
+                    <!-- Display the product description using the @product.Description property -->
+                    <p class="card-text">@product.Description</p>
+                    <!-- Display the product price using the @product.Price property -->
+                    <p class="card-text">Price: $@product.Price</p>
+                </div>
+            </div>
+        </div>
+    }
+</div>

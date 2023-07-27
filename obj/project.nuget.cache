@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "LZsFkBa8PYKT5iBVHbS9H3Q+bvI1ki7bi85dF0g7UMQQHH1pQ9xPPHVG9F0LTh2ev2Hg4vNiGKj5D1iGG8zruA==",
+  "success": true,
+  "projectFilePath": "F:\\Georgian\\SEM 3\\ASP.NET\\Assignment 2\\Furniture-Assignment2\\Furniture-Assignment2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dhake\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\dhake\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\dhake\\.nuget\\packages\\stripe.net\\41.25.0\\stripe.net.41.25.0.nupkg.sha512",
+    "C:\\Users\\dhake\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "C:\\Users\\dhake\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\dhake\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\dhake\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\dhake\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\dhake\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

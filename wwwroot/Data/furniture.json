@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Chair",
+    "description": "Comfortable chair for your living room",
+    "price": 99.99,
+    "ImageUrl": "https://img.freepik.com/free-photo/wing-back-chair-carpet-no-people_53876-14506.jpg?size=626&ext=jpg&uid=R90686919&ga=GA1.1.2059569225.1687920506&semt=ais"
+  },
+  {
+    "id": 2,
+    "name": "Table",
+    "description": "Study table for your dining room",
+    "price": 199.99,
+    "ImageUrl": "https://img.freepik.com/free-photo/children-desk-interior-design_23-2148569199.jpg?size=626&ext=jpg&uid=R90686919&ga=GA1.1.2059569225.1687920506&semt=ais"
+  },
+  {
+    "id": 3,
+    "name": "Sofa",
+    "description": "Elegant sofa for your lounge",
+    "price": 499.99,
+    "ImageUrl": "https://img.freepik.com/free-photo/chic-mid-century-modern-luxury-aesthetics-living-room-with-gray-velvet-couch-blue-rug_53876-128133.jpg?size=626&ext=jpg&uid=R90686919&ga=GA1.1.2059569225.1687920506&semt=ais"
+  },
+  {
+    "id": 4,
+    "name": "Bed",
+    "description": "Cozy bed for a good night's sleep",
+    "price": 299.99,
+    "ImageUrl": "https://img.freepik.com/free-photo/room-interior-design_23-2148899453.jpg?size=626&ext=jpg&uid=R90686919&ga=GA1.2.2059569225.1687920506&semt=ais"
+  },
+  {
+    "id": 5,
+    "name": "Bookshelf",
+    "description": "Versatile bookshelf for your study",
+    "price": 149.99,
+    "ImageUrl": "https://img.freepik.com/free-photo/wooden-plant-stand-with-cactus-side_53876-126217.jpg?size=626&ext=jpg&uid=R90686919&ga=GA1.2.2059569225.1687920506&semt=ais"
+  },
+  {
+    "id": 6,
+    "name": "Desk",
+    "description": "Functional desk for your workspace",
+    "price": 179.99,
+    "ImageUrl": "https://img.freepik.com/free-photo/stylish-workspace-with-female-things_23-2147778845.jpg?size=626&ext=jpg&uid=R90686919&ga=GA1.2.2059569225.1687920506&semt=ais"
+  },
+  {
+    "id": 7,
+    "name": "Cabinet",
+    "description": "Spacious cabinet for your storage needs",
+    "price": 249.99,
+    "ImageUrl": "https://img.freepik.com/free-photo/3d-render-modern-home-office_1048-17754.jpg?size=626&ext=jpg&uid=R90686919&ga=GA1.2.2059569225.1687920506&semt=ais"
+  },
+  {
+    "id": 8,
+    "name": "Dining Table",
+    "description": "Elegant dining table for family gatherings",
+    "price": 399.99,
+    "ImageUrl": "https://img.freepik.com/free-photo/wedding-table-decorations_1303-10511.jpg?size=626&ext=jpg&uid=R90686919&ga=GA1.2.2059569225.1687920506&semt=ais"
+  },
+  {
+    "id": 9,
+    "name": "Wardrobe",
+    "description": "Stylish wardrobe for your clothes",
+    "price": 349.99,
+    "ImageUrl": "https://img.freepik.com/free-photo/modern-bright-dressing-room-with-shelves-fashionable-hats-beautiful-pink-red-dresses-hanging-wardrobe_197531-1668.jpg?size=626&ext=jpg&uid=R90686919&ga=GA1.2.2059569225.1687920506&semt=ais"
+  },
+  {
+    "id": 10,
+    "name": "Coffee Table",
+    "description": "Modern coffee table for your living room",
+    "price": 129.99,
+    "ImageUrl": "https://img.freepik.com/free-photo/empty-room-table-minimalism-concept_53876-139672.jpg?size=626&ext=jpg&uid=R90686919&ga=GA1.2.2059569225.1687920506&semt=ais"
+  }
+]
